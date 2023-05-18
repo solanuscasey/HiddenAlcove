@@ -3,7 +3,7 @@ body{
 
     font-family: monospace;
     background-color: rgb(0, 0, 0);
-    color: rgb(31, 1, 1);
+    color: rgb(68,74,116);
 }
 @keyframes background-pan {
     from{
