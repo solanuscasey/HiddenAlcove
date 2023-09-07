@@ -8,8 +8,8 @@ body{
 .hack{
   font-size: large;
 
-font-family: monospace;
-color:rgb(255,0,0);
+    font-family: monospace;
+    color:rgb(255,0,0);
 }
 @keyframes background-pan {
     from{
