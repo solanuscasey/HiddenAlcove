@@ -9,7 +9,7 @@ body{
   font-size: large;
 
 font-family: monospace;
-color:red;
+color:rgb(255,0,0);
 }
 @keyframes background-pan {
     from{
