@@ -5,6 +5,12 @@ body{
     background-color: rgb(0, 0, 0);
     color: rgb(0,0,255);
 }
+.hack{
+  font-size: large;
+
+font-family: monospace;
+color:red;
+}
 @keyframes background-pan {
     from{
       background-position: 0% center;
